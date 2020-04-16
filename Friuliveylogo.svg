@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="357px" height="365px" viewBox="0 0 357 365" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Friuliveylogo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Friuliveylogo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" fill="#101010" cx="178.5" cy="182.5" rx="178.5" ry="182.5"></ellipse>
+        <path d="M178.5,365 C277.082828,365 357,283.291967 357,182.5 C357,81.7080332 277.082828,0 178.5,0 C79.9171722,0 0,81.7080332 0,182.5 C0,248.175891 47.7380367,235.716924 98.6549907,267.862145 C125.879647,285.049792 144.153592,365 178.5,365 Z" id="Oval" fill="#F4F4F4"></path>
+        <text id="Friulivery" font-family="Pacifico" font-size="48" font-weight="normal" letter-spacing="0.495168" fill="#3C3C3A">
+            <tspan x="78.3171287" y="205">Friulivery</tspan>
+        </text>
+    </g>
+</svg>
